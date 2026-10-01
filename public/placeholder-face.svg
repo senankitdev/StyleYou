@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" fill="none">
+  <rect width="200" height="250" rx="20" fill="#E8DDD3"/>
+  <circle cx="100" cy="85" r="55" fill="#C4A882" opacity="0.5"/>
+  <circle cx="100" cy="75" r="35" fill="#FAF8F5"/>
+  <ellipse cx="100" cy="78" rx="28" ry="32" fill="#D4C4A8"/>
+  <!-- Eyes -->
+  <circle cx="88" cy="72" r="3" fill="#3D2C1E"/>
+  <circle cx="112" cy="72" r="3" fill="#3D2C1E"/>
+  <!-- Nose -->
+  <ellipse cx="100" cy="82" rx="4" ry="3" fill="#C4A882"/>
+  <!-- Mouth -->
+  <path d="M92 90 Q100 96 108 90" stroke="#3D2C1E" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="90" y="108" width="20" height="15" rx="4" fill="#D4C4A8"/>
+  <!-- Shoulders hint -->
+  <path d="M60 135 Q80 120 100 123 Q120 120 140 135" fill="#C4A882" opacity="0.6"/>
+  <!-- Label -->
+  <text x="100" y="230" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#7A6654">Face Model</text>
+</svg>
